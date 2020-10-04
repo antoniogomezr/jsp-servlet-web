@@ -17,6 +17,7 @@ import com.example.articles.model.Article;
 
 /**
  * Servlet implementation class AdminArticle
+ * @originalauthor: agr
  */
 @WebServlet("/adminArticulo")
 public class AdminArticle extends HttpServlet {
